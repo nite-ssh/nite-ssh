@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nite-ssh&label=Profile%20views&color=0e75b6&style=flat" alt="nite-ssh" /> </p>
 
-- 🔭 I’m currently working on **Used Books Buy and sell project**
+- 🔭 I’m currently working on **chat app in react using webRTC**
 
 - 🌱 I’m currently learning **react, nestjs, tRPC, postgresql, surrealDB**
 
