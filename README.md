@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **react, nestjs, tRPC, postgresql, surrealDB**
 
-- 💬 Ask me about **react, nestjs**
+- 💬 Ask me about **typescript, nestjs**
 
 - 📫 How to reach me **contactnitesh007@gmail.com**
 
